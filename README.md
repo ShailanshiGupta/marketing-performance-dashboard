@@ -37,3 +37,4 @@ The dataset represents realistic marketing campaign performance data and include
 
 ## Outcome
 This project demonstrates the ability to analyze marketing data, build executive-level dashboards, and support strategic marketing decisions using data-driven insights.
+![Marketing Performance Dashboard](dashboard.png)
